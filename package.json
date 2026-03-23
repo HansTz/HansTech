@@ -1,5 +1,5 @@
 {
-  "name": "creepy-baileys",
+  "name": "HansTz-baileys",
   "type": "module",
   "version": "1.0.0",
   "description": "Typescript/Javascript WhatsApp Web API",
@@ -9,23 +9,23 @@
     "whatsapp-api",
     "whatsapp-web",
     "whatsapp-chat",
-    "creepytech-api",
-    "Creepy-tech",
-    "Creepy-baileys",
-    "Creepy-ai",
-    "Creepy",
-    "CreepyTech",
-    "Danny-tech",
-    "Danny",
+    "HansTz-api",
+    "HansTz-tech",
+    "HansTz-baileys",
+    "HansTz-ai",
+    "HansTz",
+    "HansTech",
+    "HansTech",
+    "HansTz",
     "whatsapp-web-api",
     "multi-device"
   ],
-  "homepage": "https://baileys.creepyteh.org",
+  "homepage": "https://github.com/HansTz/HansTech",
   "repository": {
-    "url": "https://baileys.creepyteh.org"
+    "url": "https://github.com/HansTz/HansTech"
   },
   "license": "MIT",
-  "author": "Danny Tech",
+  "author": "HansTz",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
